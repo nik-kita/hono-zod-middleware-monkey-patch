@@ -1,0 +1,10 @@
+{
+  "name": "@nik-kita/hono-zod-middleware-monkey-patch",
+  "version": "1.0.0",
+  "exports": "./mod.ts",
+  "imports": {
+    "hono": "jsr:@hono/hono@^4.4.12",
+    "hono/validator": "npm:hono@latest/validator",
+    "zod": "npm:zod@latest"
+  }
+}
