@@ -1,3 +1,5 @@
+[see on jsr](https://jsr.io/@nik-kita/hono-zod-middleware-monkey-patch)
+
 ### ...this is simple ugly monkey-patch...
 
 #### why?
